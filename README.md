@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rohit-parjapat" alt="rohit-parjapat" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/@parjapati3r" target="blank"><img src="https://img.shields.io/twitter/follow/@parjapati3r?logo=twitter&style=for-the-badge" alt="@parjapati3r" /></a> </p>
+<p align="left"> <a href="https://twitter.com/@parjapati3r" target="blank"><img src="https://img.shields.io/twitter/follow/parjapati3r?logo=twitter&style=for-the-badge" alt="Parjapati3R" /></a> </p>
 
 - 🔭 I’m currently working on **Zomato-Clone**
 
