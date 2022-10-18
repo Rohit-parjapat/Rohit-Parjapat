@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/@parjapati3r" target="blank"><img src="https://img.shields.io/twitter/follow/parjapati3r?logo=twitter&style=for-the-badge" alt="Parjapati3R" /></a> </p>
 
-- 🔭 I’m currently working on **Zomato-Clone**
+- 🔭 I’m currently working on **Zomato-Clone Project**
 
-- 🌱 I’m currently learning **Full Stack Web Development**
+- 🌱 I’m currently learning **Full Stack Web Development from Devtown**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Rohit-parjapat?tab=overview&from=2022-10-01&to=2022-10-08](https://github.com/Rohit-parjapat?tab=overview&from=2022-10-01&to=2022-10-08)
 
