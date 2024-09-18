@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **sharpening my skills**
 
-- 🌱 I’m currently learning **Full Stack Web Development**
+- 🌱 I’m currently Seeking for a job **Full Stack Web Development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Rohit-parjapat?tab=overview&from=2022-10-01&to=2022-10-08](https://github.com/Rohit-parjapat?tab=overview&from=2022-10-01&to=2022-10-08)
 
