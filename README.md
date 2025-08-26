@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rohit</h1>
-<h3 align="center">College Student.🙂</h3>
+<h3 align="center">I’m currently Seeking for a job **Software Development🙂**</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rohit-parjapat" alt="rohit-parjapat" /></a> </p>
 
@@ -11,9 +11,9 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Rohit-parjapat?tab=overview&from=2022-10-01&to=2022-10-08](https://github.com/Rohit-parjapat?tab=overview&from=2022-10-01&to=2022-10-08)
 
-- 💬 Ask me about **Basics of React and Nodejs**
+- 💬 Ask me about **React and Nodejs**
 
-- 📫 How to reach me **rparjapati7377@gmail.com**
+- 📫 How to reach me **itsmerohit7377@gmail.com & 9953910791**
 
 - ⚡ Fun fact **I like to Learn Something New 📖**
 
